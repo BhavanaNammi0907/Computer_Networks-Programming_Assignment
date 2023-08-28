@@ -1,0 +1,2 @@
+Hello this is a demo file2.txt for the socket programming project of file server application between the client and the
+server.
